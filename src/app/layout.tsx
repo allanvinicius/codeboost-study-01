@@ -7,7 +7,7 @@ const lato = Lato({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
   title: "LP Codeboost - Itaú",
-  description: "Estudo de nextjs e tailwind css",
+  description: "Estudo de nextjs e tailwind CSS",
 };
 
 export default function RootLayout({
